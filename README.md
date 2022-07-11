@@ -1,2 +1,4 @@
-# newton-2.0-papers
-Papers for newton 2.0
+# newton 2.0 papers
+[Lite Paper](litepaper.md)
+
+[Economy Paper](economy-paper.md)
