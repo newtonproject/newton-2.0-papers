@@ -45,7 +45,7 @@ The system parameters are listed as follows:
 >
 > $\mathcal{F}$ - Fee structure
 >
-> $\alpha$, $\beta$, $\gamma$ - Parameters of minting function, default value of $\alpha$, $\beta$, $\gamma$ is 1.15$,$1$, $$0.2$ 
+> $\alpha$, $\beta$, $\gamma$ - Parameters of minting function, default value of $\alpha$, $\beta$, $\gamma$ is $1.15$,$1$, $0.2$ 
 
 Where  $\mathcal{F}$ will be explained in later documents.
 
